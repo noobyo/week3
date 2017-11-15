@@ -1,0 +1,15 @@
+/*In CSS: Add a hover effect to the links.*/
+a:hover {
+	background-color: yellow
+}
+/*In CSS: Add different styles to each button to make 
+them have a flat design (for examples of "flat" buttons, click here).*/
+button:nth-child(1) {
+	margin:50px;
+}
+button:nth-child(2){
+	padding:20px;
+}
+button:nth-child(3){
+	columns:50px;
+}
